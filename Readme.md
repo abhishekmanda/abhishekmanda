@@ -51,7 +51,6 @@ https://digital-learning-course-management-system.onrender.com
 
 ### Backend & Frameworks
 <p>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
 </p>
@@ -106,3 +105,4 @@ To build efficient, scalable, and user-friendly web applications using Python an
 
 ## Fun Fact
 I enjoy building systems that combine software logic with real-world automation.
+
